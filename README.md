@@ -1,4 +1,4 @@
-# Implementation-of-a-VOIP-Server-using-Raspberry-pi-.
+# Implementation-of-a-VOIP-Server-using-Raspberry-pi.
  *This Setup can be done for a raspberry pi on a linux platform i.e Raspbian
  https://www.raspberrypi.org/downloads/raspbian/
  * Under Terrain Conditions Voip communications are way effective than cellular communication.
